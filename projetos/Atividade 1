@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, inicial-scale+1.0">
+    <title>Nosso Site</title>
+</head>
+<body>
+    <header>
+         <h1>Bem Vindos</h1>
+    </header>
+    <main>
+        <p>Exemplo de HTML com Imagen.</p>
+
+    </main>
+    <img src="Imagens/mclovin-superbad.gif" alt="McLovinnn">
+    <footer>
+         <p>c 2025 McLovin</p>
+    </footer>
+</body>
+<a href="C:/Users/Admin/Downloads/Untitled-2.html">meu site</a>
+</html>
